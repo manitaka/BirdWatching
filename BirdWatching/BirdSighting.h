@@ -5,7 +5,7 @@
 //  Created by takashi on 5/6/13.
 //  Copyright (c) 2013 takashi. All rights reserved.
 //
-
+//
 #import <Foundation/Foundation.h>
 
 @interface BirdSighting : NSObject
